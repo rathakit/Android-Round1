@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/pre-dexed/release/classes-52598093f1e6455d3a7827de3085535cca3eaf93.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/pre-dexed/release/gson-2.2.4-6f9d7fd22a370a58cac8678b332d15f665380336.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Development-Tools/Mac/Java/android-sdk-mac_x86/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/pre-dexed/release/support-annotations-22.0.0-9ec9cbb8be8290b3afe71c1200fa892071873ded.jar" />
+    </item>
+    <item
+        jar="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0-0aef40e7b72107f728e5753a52b2979c245b57f3.jar" />
+    </item>
+    <item
+        jar="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/apple/git/hotelquickly/android/example/app/build/intermediates/pre-dexed/release/classes-5f9d58b5d9bf54803eb3caac8571fb177145359b.jar" />
+    </item>
+
+</items>
